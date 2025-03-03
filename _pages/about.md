@@ -17,14 +17,29 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 # 🧑‍💻 About Me
-I am about to join DiDi <img src="images/didilogo.png" alt="DiDi" width="50" height="30" style="vertical-align:middle;">, where I will focus on promoting the reasoning capabilities of large language models and developing travel-related intelligent agents.
-
-Currently, I am a third-year master's student in Southeast University, under the supervision of Associate Professor [Yi Zhou](https://cs.seu.edu.cn/yizhou/main.htm). My research interests include continual train, open-world learning, and computer vision. Prior to this, I received my bachelor's degree from the School of Computer and Artificial Intelligence in ZhengZhou University.
+I am about to join <img src="images/didilogo.png" alt="DiDi" width="50" height="30" style="vertical-align:middle;"> as an algorithm engineer, where I would focus on promoting the reasoning capabilities of large language models and developing travel-related intelligent agents. Currently, I am a third-year master in Southeast University, under the supervision of [Yi Zhou](https://cs.seu.edu.cn/yizhou/main.htm). Prior to this, I received my bachelor's degree from ZhengZhou University. My research interests include incremental learning and open-world learning, especially in object detection and image classification. 
 # 🔥 News
-- *2024.06*: &nbsp;🎉🎉 One paper accepted by ICIP 2024.
-- *2024.04*: &nbsp;🎉🎉 One paper accepted by IEEE T-IV.
+- *2025.03*: &nbsp;🎉🎉 Our latest paper in incremenral learning is available at [hear](https://github.com/rolsheng/UIL).
+- *2024.06*: &nbsp;🎉🎉 One paper accepted by ICIP 2024. **[CCF-C类]**.
+- *2024.04*: &nbsp;🎉🎉 One paper accepted by IEEE Transactions on Intelligent Vehicles. **[JCR-Q1]**.
 
 # 📝 Publications 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Under review</div><img src='images/setting.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Universal Incremental Learning: Mitigating Confusion from Inter- and Intra-task Distribution Randomness](https://github.com/rolsheng/UIL) 
+
+**Sheng Luo**, Yi Zhou
+
+[**GitHub**](https://github.com/rolsheng/UIL) &nbsp;&nbsp; [**Paper**](https://github.com/rolsheng/UIL)
+
+Keywords:
+- General Incremental Learning
+- Real-world Scenarios
+- Entropy Minimization and Gradient Recalibration
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICIP 2024</div><img src='images/opendet-d.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -32,12 +47,12 @@ Currently, I am a third-year master's student in Southeast University, under the
 
 **Sheng Luo**, Yi Zhou
 
-[**GitHub**](https://github.com/rolsheng/OpenDet-D)
+[**GitHub**](https://github.com/rolsheng/OpenDet-D) &nbsp;&nbsp; [**Paper**](https://ieeexplore.ieee.org/document/10647822)
 
 Keywords:
-- Continual learning
-- Open set object detection
-- Visual Foundation Model
+- Visual Prompt Generation
+- Unknown Object Labeling
+- Open-set Detection and Incremental Learning
 </div>
 </div>
 
@@ -46,14 +61,14 @@ Keywords:
 
 [Delving into Multi-modal Multi-task Foundation Models for Road Scene Understanding: From Learning Paradigm Perspectives](https://ieeexplore.ieee.org/abstract/document/10540321)
 
-**Sheng Luo**, Wei Chen, Wanxin Tian, Rui Liu, Luanxuan Hou, Xiubao Zhang, Haifeng Shen, Ruiqi Wu, Shuyi Geng, Yi Zhou, et al.
+**Sheng Luo**, Wei Chen, Yi Zhou, et al.
 
-[**GitHub**](https://github.com/rolsheng/MM-VUFM4DS) 
+[**GitHub**](https://github.com/rolsheng/MM-VUFM4DS) &nbsp;&nbsp; [**Paper**](https://ieeexplore.ieee.org/abstract/document/10540321)
 
 Keywords:
-- Unified multi-modal multi-task learning models
-- Prompting techniques for road scene understanding
-- Autogressive and diffusion-based generative model for synthetic data
+- Language-centric Multi-task Modeling
+- Vision-centric and -beyond Multi-modal Understanding
+- Prompting Techniques and World Model
 </div>
 </div>
 
@@ -66,10 +81,11 @@ Keywords:
 
 
 # 📖 Educations
-- *2023.06 - 2025.06 (now)*, Master, [School of Comupter Science and Engineering](https://cse.seu.edu.cn/), [Southeast University](https://www.seu.edu.cn/), Nanjing.
-- *2022.09 - 2023.06*, Master, [School of Software Engineering](https://cse.seu.edu.cn/), [Southeast University](https://szxq.seu.edu.cn/), Suzhou.
-- *2018.09 - 2022.06*, Bachelor, [Department of School of Computer and Artificial Intelligence](https://www7.zzu.edu.cn/csai/), [ZhengZhou University](https://www.zzu.edu.cn/), Zhengzhou.
-- *2015.09 - 2018.06*, [No.1 Middle School Yiyang City](http://www.hnyysyz.com/Index.aspx), Yiyang.
+- *2022.09 - 2025.06 (now)*, Master, [School of Software Engineering](https://cse.seu.edu.cn/), [Southeast University](https://szxq.seu.edu.cn/), Suzhou, Jiangsu Province.
+- *2018.09 - 2022.06*, Bachelor, [Department of School of Computer and Artificial Intelligence](https://www7.zzu.edu.cn/csai/), [ZhengZhou University](https://www.zzu.edu.cn/), Zhengzhou, Henan Province.
+- *2015.09 - 2018.06*, [No.1 Middle School Yiyang City](http://www.hnyysyz.com/Index.aspx), Yiyang, Hunan Province.
 
 # 💻 Internships
-- *2024.05 - 2024.11*, [DiDi, L lab group](https://www.didiglobal.com/), Beijing.
+- *2024.05 - 2024.11*, DiDi [L-Lab Group](https://www.didiglobal.com/), Beijing.
+
+#  Hobbies
