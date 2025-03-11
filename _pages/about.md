@@ -27,11 +27,11 @@ I am about to join <img src="images/didilogo.png" alt="DiDi" width="50" height="
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Under review</div><img src='images/setting.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Universal Incremental Learning: Mitigating Confusion from Inter- and Intra-task Distribution Randomness](https://github.com/rolsheng/UIL) 
+[Universal Incremental Learning: Mitigating Confusion from Inter- and Intra-task Distribution Randomness](https://arxiv.org/abs/2503.07035) 
 
-**Sheng Luo**, Yi Zhou
+**Sheng Luo**, Yi Zhou, Tao Zhou
 
-[**GitHub**](https://github.com/rolsheng/UIL) &nbsp;&nbsp; [**Paper**](https://github.com/rolsheng/UIL)
+[**GitHub**](https://github.com/rolsheng/UIL) &nbsp;&nbsp; [**Paper**](https://arxiv.org/abs/2503.07035)
 
 Keywords:
 - General Incremental Learning
@@ -89,3 +89,5 @@ Keywords:
 - *2024.05 - 2024.11*, DiDi [L-Lab Group](https://www.didiglobal.com/), Beijing.
 
 #  Hobbies
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">西红柿炒鸡蛋</div><img src='images/spicy_pi_egg.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
