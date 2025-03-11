@@ -21,7 +21,7 @@ I am about to join <img src="images/didilogo.png" alt="DiDi" width="50" height="
 # 🔥 News
 - *2025.03*: &nbsp;🎉🎉 Our latest paper in incremenral learning is available at [hear](https://github.com/rolsheng/UIL).
 - *2024.06*: &nbsp;🎉🎉 One paper accepted by ICIP 2024. **[CCF-C类]**.
-- *2024.04*: &nbsp;🎉🎉 One paper accepted by IEEE Transactions on Intelligent Vehicles. **[JCR-Q1]**.
+- *2024.04*: &nbsp;🎉🎉 One paper accepted by IEEE Transactions on Intelligent Vehicles (IEEE T-IV). **[JCR-Q1]**.
 
 # 📝 Publications 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Under review</div><img src='images/setting.jpg' alt="sym" width="100%"></div></div>
