@@ -88,7 +88,7 @@ Keywords:
 # 💻 Internships
 - *2024.05 - 2024.11*, DiDi [L-Lab Group](https://www.didiglobal.com/), Beijing.
 
-# 😋 Hobbies (前端布局太丑，还在学习...)
+# 😋 Hobbies (布局太丑，后续调整...)
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">西红柿炒鸡蛋</div><img src='images/tomato_and_egg.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 看似简单，其实也简单。
