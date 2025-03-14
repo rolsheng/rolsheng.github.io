@@ -98,3 +98,9 @@ Keywords:
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">擂椒皮蛋</div><img src='images/spicy_pi_egg.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 卖相差点，但味道不错。
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">红油炒鸡</div><img src='images/chicken.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+咸香可口，配饭绝配。
+</div>
+</div>
