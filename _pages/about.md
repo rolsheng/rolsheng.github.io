@@ -19,7 +19,7 @@ redirect_from:
 # 🧑‍💻 About Me
 I am about to join <img src="images/didilogo.png" alt="DiDi" width="50" height="30" style="vertical-align:middle;"> as an algorithm engineer, where I would focus on promoting the reasoning capabilities of large language models and developing travel-related intelligent agents. Currently, I am a third-year master in Southeast University, under the supervision of [Yi Zhou](https://cs.seu.edu.cn/yizhou/main.htm). Prior to this, I received my bachelor's degree from ZhengZhou University. My research interests include incremental learning and open-world learning, especially in object detection and image classification. 
 # 🔥 News
-- *2025.03*: &nbsp;🎉🎉 Our latest paper in incremenral learning is available at **[hear](https://arxiv.org/abs/2503.07035)**.
+- *2025.03*: &nbsp;🎉🎉 Our latest paper in incremenral learning is available at **[here](https://arxiv.org/abs/2503.07035)**.
 - *2024.06*: &nbsp;🎉🎉 One paper accepted by ICIP 2024. **[CCF-C类]**.
 - *2024.04*: &nbsp;🎉🎉 One paper accepted by IEEE Transactions on Intelligent Vehicles (IEEE T-IV). **[JCR-Q1]**.
 
