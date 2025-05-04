@@ -20,4 +20,7 @@ main:
 
   - title: "Hobbies"
     url: "/#-hobbies"
+
+  - title: "Recipes"
+    url: "/#-recipes"
   
