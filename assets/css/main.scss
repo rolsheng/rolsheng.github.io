@@ -193,11 +193,42 @@
     .close-modal:hover {
         background-color: rgba(255, 255, 255, 1);
     }
+    /* 针对手机屏幕的响应式布局 */
     @media (max-width: 768px) {
-        .image-container {
-            width: 200px; /* 在较小屏幕上减小图像宽度 */
+        .recipe-card {
+            flex-direction: column; /* 在手机上垂直排列 */
+            align-items: center; /* 内容垂直居中 */
+            justify-content: center; /* 内容居中对齐 */
         }
-    }
+
+        .image-container {
+            width: 100%; /* 图片宽度100% */
+            margin-right: 0; /* 移除右边距 */
+            margin-bottom: 15px; /* 给图片和文字之间增加间距 */
+        }
+
+        .recipe-description {
+            width: 100%; /* 文字容器宽度100% */
+            text-align: center; /* 文字居中 */
+        }
+
+        .view-button {
+            position: relative;
+            bottom: 0;
+            left: 0;
+            padding: 4px 8px;
+            font-size: 14px;
+            margin-top: 10px;
+        }
+
+        .recipe-description h3 {
+            font-size: 18px; /* 在手机上减小字体 */
+        }
+
+        .recipe-description p {
+            font-size: 14px;
+        }
+}
     
 }
 
