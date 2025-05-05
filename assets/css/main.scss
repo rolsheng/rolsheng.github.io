@@ -39,62 +39,7 @@
 @import "vendor/font-awesome/brands";
 @import "vendor/magnific-popup/magnific-popup";
 @import "print";
-
-// .recipe-card{
-//     display: flex;
-//     flex-direction: row;
-//     border: 1px solid #ddd;
-//     padding: 20px;
-//     margin: 20px 0;
-//     border-radius: 8px;
-//     background-color: #f9f9f9;
-//     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
-
-//     .image-container {
-//         position: relative;
-//         margin-right: 20px;
-//         width: 200px; /* 图片宽度 */
-//     }
-//     .recipe-image {
-//         width: 100%;
-//         height: auto;
-//         border-radius: 8px;
-//         object-fit: cover;
-//     }
-//     .view-button {
-//         position: absolute;
-//         bottom: 10px;
-//         left: 10px;
-//         padding: 5px 10px;
-//         background-color: rgba(0, 0, 0, 0.6);
-//         color: white;
-//         border: none;
-//         border-radius: 4px;
-//         cursor: pointer;
-//         font-size: 14px;
-//     }
-    
-//     .view-button:hover {
-//         background-color: rgba(0, 0, 0, 0.8);
-//     }
-    
-//     .recipe-description {
-//         flex-grow: 1;
-//     }
-    
-//     .recipe-description h3 {
-//         margin-top: 0;
-//         font-size: 20px;
-//         color: #333;
-//     }
-    
-//     .recipe-description p {
-//         font-size: 14px;
-//         color: #555;
-//         line-height: 1.6;
-//     }
-
-// }
+ 
 .recipe-card {
     display: flex;
     flex-direction: row;
@@ -230,6 +175,16 @@
         }
 }
     
+}
+
+.visitor-map {
+    display: flex;        /* 保证它是块级元素 */
+    width: 100%;           /* 和父容器同宽 */
+    height: auto;          /* 高度自动 */
+    margin: 20px 0;        /* 上下各 20px，左右 0，和 .recipe-card 的 margin 保持一致 */
+    border-radius: 4px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    padding: 10px;
 }
 
 .paper-box {

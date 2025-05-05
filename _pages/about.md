@@ -88,7 +88,7 @@ Keywords:
 # 💻 Internships
 - *2024.05 - 2024.11*, DiDi [L-Lab Group](https://www.didiglobal.com/), Beijing.
 
-# 😋 Hobbies 
+# 🎃 Hobbies 
 - 🎮 Playing Games
 - 🎵 Listening to Music
 - 📚 Reading Papers and Blogs
@@ -159,5 +159,11 @@ Keywords:
            准备好3个鸡蛋和2个西红柿。将西红柿洗净后切成小块备用。将鸡蛋在碗中打散后加入1勺盐备用。热锅后倒入适量油，油热后倒入鸡蛋液，待鸡蛋成型后用铲子快速隔断成块状，呈出备用。重新热锅倒入适量油，将切好的西红柿块倒入锅中翻炒，期间不停用锅铲碾碎西红柿块。待西红柿完全呈汤状后，倒入炒好的鸡蛋使其与西红柿混合均匀，加入适量开水、番茄酱、白糖，小火收汁变浓稠后即可出锅装盘。注意，可事先将洗净的西红柿放入开水中1分种后取出，方便去皮。
         </p>
     </div>
+</div>
+
+# 🗺️ Visitors
+
+<div class="visitor-map">
+    <script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=I2fjoPffEiqWJqQr09WMF4jcKOyCAIpFShGs4vPIGOI&cl=ffffff&w=a"></script>
 </div>
 

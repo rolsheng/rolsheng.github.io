@@ -6,14 +6,14 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : " Sheng Luo (罗胜Rosen)"
+title                    : "Sheng Luo (罗胜Rosen)"       
 description              : "Master in Southeast University. Focusing on continual learning and computer vision."
 repository               : "rolsheng/shengluo.github.io"
 google_scholar_stats_use_cdn : true
 
 # Site Author
 author:
-  name             : "Sheng Luo (罗胜Rosen)"
+  name             : "Sheng Luo (罗胜Rosen)"       
   avatar           : "images/picture.jpg"
   bio              : "Southeast University(SEU)"
   location         : "Nanjing, China"
